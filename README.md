@@ -24,8 +24,8 @@ Voici un projet que j'ai tiré chez frontendmentor.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/marcellintacite/Qrcodecard)
-- Live Site URL: [Add live site URL here](https://marcellintacite.github.io/Qrcodecard/)
+- Solution URL: [Solution](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-code-component-4W7Rd8VP46/solutions)
+- Live Site URL: [Live site](https://marcellintacite.github.io/Qrcodecard/)
 
 ## My process
 
